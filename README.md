@@ -1,5 +1,6 @@
 <h1 align="center">Hi , I'm sheik gulfaan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76113cde2bad20f85ebe21a63c8e4f3864cace9965e9&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikgulf13&label=Profile%20views&color=0e75b6&style=flat" alt="sheikgulf13" /> </p>
 
