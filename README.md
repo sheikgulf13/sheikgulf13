@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/sheikgulf13/sheikgulf13/blob/main/github-banner-1.png)
+![MasterHead](https://github.com/sheikgulf13/sheikgulf13/blob/main/github%20banner-1.png)
 <h1 align="center">Hi , I'm sheik gulfaan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76113cde2bad20f85ebe21a63c8e4f3864cace9965e9&rid=giphy.gif&ct=g">
