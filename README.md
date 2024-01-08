@@ -7,11 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sheik_gulfaan" target="blank"><img src="https://img.shields.io/twitter/follow/sheik_gulfaan?logo=twitter&style=for-the-badge" alt="sheik_gulfaan" /></a> </p>
 
-- 🌱 I’m currently learning **react**
 
-- 💬 Ask me about **front-end development**
-
-- 📫 How to reach me **sheikgulf01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
